@@ -1,7 +1,7 @@
-### 🚀 Welcome to My Futuristic GitHub Profile!
+### 🚀 Welcome to My GitHub Profile!
 
 ```diff
-+ Full-Stack Developer | AI Explorer | Cyber Enthusiast
++ Full-Stack Developer | AI Explorer | Tech Enthusiast
 ```
 
 🔹 **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -33,13 +33,14 @@
 ---
 
 ### 🕹️ Watch My Contribution Snake!
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/Sanskruti-Shete/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Sanskruti-Shete/Sanskruti-Shete/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 🔗 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sanskruti_shete)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SanskrutiShete)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sans_shete)
 
 ---
 
