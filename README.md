@@ -1,31 +1,46 @@
-### 🚀 Welcome to My GitHub Profile!  
+### 🚀 Welcome to My Futuristic GitHub Profile!
 
 ```diff
-+ Developer | Open Source Contributor | Tech Enthusiast
++ Full-Stack Developer | AI Explorer | Cyber Enthusiast
 ```
 
-🔹 **Languages:** Python, JavaScript, TypeScript  
-🔹 **Frameworks:** React, Next.js  
-🔹 **Tech Stack:** Node.js, Tailwind CSS, MongoDB
+🔹 **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+🔹 **Web Tech:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+🔹 **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+🔹 **Other Tech:** ![DOSBox](https://img.shields.io/badge/DOSBox-000000?style=flat&logo=msdos&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskruti-Shete&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanskruti-Shete&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-### 🌟 Projects
-- **[Project 1](#)** - AI-powered web app.
-- **[Project 2](#)** - Cyberpunk-inspired UI system.
+### 🛠️ Futuristic Tech Stack
+```json
+{
+  "Frontend": "React.js, HTML, CSS, JavaScript",
+  "Backend": "Java, C++, Python",
+  "Databases": "MySQL, MongoDB",
+  "DevOps": "Docker, CI/CD Pipelines",
+  "AI": "Pandas, NumPy"
+}
+```
+
+---
+
+### 🕹️ Watch My Contribution Snake!
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/Sanskruti-Shete/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 🔗 Connect with Me
-[Twitter](https://twitter.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 
 ---
 
-> "The future is built by those who code it."
+> "The future belongs to those who build it." 🚀
