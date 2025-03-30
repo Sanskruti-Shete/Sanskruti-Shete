@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Futuristic Tech Stack
+### 🛠️ Tech Stack
 ```json
 {
   "Frontend": "React.js, HTML, CSS, JavaScript",
@@ -29,13 +29,6 @@
   "AI": "Pandas, NumPy"
 }
 ```
-
----
-
-### 🕹️ Watch My Contribution Snake!
-![Snake animation](https://github.com/Sanskruti-Shete/Sanskruti-Shete/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🔗 Connect with Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sanskruti_shete)  
