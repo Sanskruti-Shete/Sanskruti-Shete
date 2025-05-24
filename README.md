@@ -20,5 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sanskruti-Shete&icon=3&color=6)](https://visitcount.itsvg.in)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Sanskruti-Shete&label=Profile%20views&color=0e75b6&style=flat" alt="Sanskruti-Shete" /> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
