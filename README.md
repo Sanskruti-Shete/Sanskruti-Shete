@@ -18,6 +18,14 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sanskruti-Shete&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Sanskruti-Shete/Sanskruti-Shete/output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Sanskruti-Shete&icon=3&color=6)](https://visitcount.itsvg.in)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Sanskruti-Shete&label=Profile%20views&color=0e75b6&style=flat" alt="Sanskruti-Shete" /> </p>
