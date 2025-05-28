@@ -16,11 +16,10 @@
 [![](https://visitcount.itsvg.in/api?id=Sanskruti-Shete&icon=3&color=6)](https://visitcount.itsvg.in)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Sanskruti-Shete&label=Profile%20views&color=0e75b6&style=flat" alt="Sanskruti-Shete" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sans_shete) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskruti-shete-02aba1275) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanskruti_shete) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shetesanskruti066@gmail.com) 
-
 <p align="center">
  <img width="1000" src="comps/github-snake.svg" alt="snake"/>
 </p>
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sans_shete) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskruti-shete-02aba1275) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanskruti_shete) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shetesanskruti066@gmail.com) 
