@@ -19,4 +19,8 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sans_shete) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskruti-shete-02aba1275) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanskruti_shete) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shetesanskruti066@gmail.com) 
 
+<p align="center">
+ <img width="1000" src="comps/github-snake.svg" alt="snake"/>
+</p>
+
 
