@@ -1,4 +1,3 @@
-
 ![](https://github-profile-trophy.vercel.app/?username=Sanskruti-Shete&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
