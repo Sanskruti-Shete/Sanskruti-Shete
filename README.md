@@ -1,7 +1,15 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sanskruti-Shete&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Commits,Repositories,Experience,Followers&column=5)
 
+<p>I am a second-year B.Tech Computer Science and Engineering student at Vellore Institute of Technology, Chennai, with a strong academic foundation and a growing passion for Web Development and Machine Learning. I am particularly drawn to the process of building intuitive, user-focused web applications and exploring how data-driven models can be used to solve real-world problems in smarter, more efficient ways.
 
-# 📊 GitHub Stats:
+My current technical experience includes working with core web technologies such as HTML, CSS, and JavaScript, as well as modern frameworks and tools like React for frontend development and Node.js for building backend services. I have also worked with both relational and non-relational databases, including SQL and MongoDB, which has helped me understand the full stack of web application development. I’m consistently exploring ways to write cleaner, more efficient code and stay up to date with evolving trends in the tech space.
+
+Beyond my technical interests, I am deeply passionate about public speaking and anchoring. Whether it’s hosting college events, participating in debates, or leading group discussions, I thrive in environments that allow me to communicate, connect, and engage with others. These experiences have not only improved my stage presence and confidence but also shaped me into a better collaborator and leader.
+
+Creativity and balance play a big role in my life as well. Dancing has been a long-time passion that allows me to express myself freely and stay active. I also enjoy playing badminton, which keeps me energized and instills a strong sense of focus and discipline.
+
+I believe that technology is at its best when it's infused with creativity and built with empathy. I am eager to take on challenging projects that allow me to innovate, learn, and contribute meaningfully—both as a developer and as an individual. Whether it’s working on a team, leading a presentation, or diving deep into code, I bring enthusiasm, curiosity, and a strong work ethic to everything I do.</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanskruti-Shete&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sanskruti-Shete&theme=dark&hide_border=false" width="400"/>
