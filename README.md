@@ -1,8 +1,12 @@
-![](https://github-profile-trophy.vercel.app/?username=Sanskruti-Shete&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Sanskruti-Shete&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Commits,Repositories,Experience,Followers&column=5)
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sanskruti-Shete&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Sanskruti-Shete&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanskruti-Shete&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sanskruti-Shete&theme=dark&hide_border=false" width="400"/>
+</p>
+
 <p align="center">
   <img height="200" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskruti-Shete&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages">
 </p>
