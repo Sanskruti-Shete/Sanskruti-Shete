@@ -16,7 +16,7 @@ I believe that technology is at its best when it's infused with creativity and b
 </p>
 
 <p align="center">
-  <img height="200" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskruti-Shete&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages">
+  <img height="300" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskruti-Shete&layout=compact&langs_count=15&theme=tokyonight" alt="Top Languages">
 </p>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Sanskruti-Shete&style=for-the-badge&color=orange" alt=""/>
