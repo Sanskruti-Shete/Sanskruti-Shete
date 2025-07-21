@@ -1,6 +1,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sanskruti-Shete&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Commits,Repositories,Experience,Followers&column=5)
 
-<p>I am a second-year B.Tech Computer Science and Engineering student at Vellore Institute of Technology, Chennai, with a strong academic foundation and a growing passion for Web Development and Machine Learning. I am particularly drawn to the process of building intuitive, user-focused web applications and exploring how data-driven models can be used to solve real-world problems in smarter, more efficient ways.
+<p>I am a third-year B.Tech Computer Science and Engineering student at Vellore Institute of Technology, Chennai, with a strong academic foundation and a growing passion for Web Development and Machine Learning. I am particularly drawn to the process of building intuitive, user-focused web applications and exploring how data-driven models can be used to solve real-world problems in smarter, more efficient ways.
 
 My current technical experience includes working with core web technologies such as HTML, CSS, and JavaScript, as well as modern frameworks and tools like React for frontend development and Node.js for building backend services. I have also worked with both relational and non-relational databases, including SQL and MongoDB, which has helped me understand the full stack of web application development. I’m consistently exploring ways to write cleaner, more efficient code and stay up to date with evolving trends in the tech space.
 
